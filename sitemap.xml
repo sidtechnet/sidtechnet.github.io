@@ -8,27 +8,7 @@
   </url>
   
   <url>
-    <loc>https://sidtechnet.github.io/categories/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidtechnet.github.io/tags/css/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sidtechnet.github.io/blog/my-first-blog/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidtechnet.github.io/tags/html/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidtechnet.github.io/tags/markdown/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,32 +18,20 @@
   </url>
   
   <url>
-    <loc>https://sidtechnet.github.io/categories/syntax/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidtechnet.github.io/tags/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidtechnet.github.io/tags/themes/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidtechnet.github.io/categories/themes/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sidtechnet.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://sidtechnet.github.io/categories/</loc>
+  </url>
+  
+  <url>
     <loc>https://sidtechnet.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sidtechnet.github.io/tags/</loc>
   </url>
   
 </urlset>
